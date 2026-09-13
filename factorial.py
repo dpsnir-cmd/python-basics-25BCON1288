@@ -1,4 +1,5 @@
-n = 5
+
+# This function calculates the factorial of a given numbern
 fact = 1
 
 for i in range(1, n + 1):
